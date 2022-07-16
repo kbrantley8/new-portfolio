@@ -1,0 +1,28 @@
+{
+    "capital_one": {
+        "title": "Capital One",
+        "role": "Associate Software Engineer",
+        "location": "Richmond, VA",
+        "image_name": "capital-one.png",
+        "description": [
+            "Onboarded <p class='hightlighted'>50+</p> new programs for the line management decision orchestrator",
+            "Oversaw successful release of the streaming application upgrade, from <p class='hightlighted'>creation to production</p>",
+            "Participated in multiple <p class='hightlighted'>internal hackathons</p>, creating an internal networking application and serverless authentication APIs"
+        ],
+        "start_date": "August 2021",
+        "end_date": "present"
+    },
+    "noble_systems": {
+        "title": "Noble Systems",
+        "role": "Software Engineer Co-op",
+        "location": "Dunwoody, GA",
+        "image_name": "noble-systems.jfif",
+        "description": [
+            "Onboarded <p class='hightlighted'>50+</p> new programs for the line management decision orchestrator",
+            "Oversaw successful release of the streaming application upgrade, from <p class='hightlighted'>creation to production</p>",
+            "Participated in multiple <p class='hightlighted'>internal hackathons</p>, creating an internal networking application and serverless authentication APIs"
+        ],
+        "start_date": "May 2019",
+        "end_date": "December 2020"
+    }
+}

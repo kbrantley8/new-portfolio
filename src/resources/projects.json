@@ -1,0 +1,35 @@
+{
+    "guiding_science": {
+        "title": "Guiding Science Annotated Bibliography Digital Library",
+        "time_from": "Fall 2019",
+        "time_to": null,
+        "description": "My team and I choose the Guiding Science Annotated Bibliography website redesign for our Jr Design Project. We were in contact with two amazing women who worked/had worked at the Univerity of Florida on the Guiding Science project. This project was a way of giving women from the 1700s and 1800s credit for their scientific discroveries and publications. We had the honor of creating a new website for them using React and Firebase, where I was responsible for the design and implementation of the user and admin screens. This is where I got a lot of experience with routing, material-ui, and an increased exposure to react techniques.",
+        "image_name": "guiding_science.png",
+        "technologies": [ "reactjs", "firebase" ],
+        "github_link": {}
+    },
+    "balance_me": {
+        "title": "Balance Me",
+        "time_from": "Summer 2020",
+        "time_to": null,
+        "description": "Balance Me is designed for teenagers who live with Intellectual Development Disorders (IDDs) and suffer from a lack of task-oriented direction. The purpose of our app was to add guidance to their everyday lives by creating an easy to use interface that worked streamlessly with a remote backend that would document their upcoming tasks and remind them of when tasks were due for completion. We used React Native to create the app and Express/Mongoose/MongoDB to create the backend. I volunteered to tackle the backend and was able to successfully create a RESTful API that aligned nicely with our project's needs. This project was created during my CS 4605 - Ubiquitous Computing class between me and 4 other class members.",
+        "image_name": "balance-me.jpg",
+        "technologies": [ "reactjs", "mongodb", "nodejs", "heroku", "redux" ],
+        "github_link": {
+            "https://github.com/kbrantley8/balance-me": "Frontend Code",
+            "https://github.com/kbrantley8/balance-me-server": "Backend Code", 
+            "https://github.com/kbrantley8/balance-me-fitbit": "FitBit Code"
+        }
+    },
+    "deck_derby": {
+        "title": "Deck Derby",
+        "time_from": "Summer 2021",
+        "time_to": "Present",
+        "description": "Since the beginning of COVID-19 in 2020, my friends and I wanted to continue to play some of our notorious card games remotely. Thus, Deck Derby was born. This project was build using React.js and AWS services to allow us a medium for playing together. My favorite part of this project was working on the websocket, a new obstacle for me in my pursuit of web development. I was able to do this by using API Gateway and Lambda (backed by python) services offered by AWS. Each action done by a user is sent to the websocket, processed, and then the global state of that room ID's game is sent to every active connection in that room. This allows the game to be updated on each player's screen and maintains consistency.",
+        "image_name": "deck-derby.png",
+        "technologies": [ "reactjs", "redux", "python", "aws" ],
+        "github_link": {
+            "https://github.com/kbrantley8/deck-derby": "Fullstack Code"
+        }
+    }
+}
